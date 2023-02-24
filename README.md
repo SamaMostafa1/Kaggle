@@ -1,5 +1,4 @@
-# Pandas
-# Equilizer - Task 2 DSP
+# Pandas Course
 ## About
 Applying  pandas library  in data Science
 
@@ -7,11 +6,11 @@ Applying  pandas library  in data Science
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/SamaMostafa1/-sbe3110_f22_task2_Team-19
+$ git clone https://github.com/SamaMostafa1/Pandas.git
 ```
 2. **_Navigate to repository directory_**
 ```sh
-$ cd -sbe3110_f22_task2_Team-19
+$ cd -Pandas.git
 ```
 ```
 ## libraries
