@@ -1,4 +1,4 @@
-# Kaggle CourseS
+# Kaggle Courses
 ## About
 1. **_pandas library  in data Science_**
 2.**_Data cleaning_**
