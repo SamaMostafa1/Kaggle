@@ -10,14 +10,14 @@
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/SamaMostafa1/Pandas.git
+$ git clone https://github.com/SamaMostafa1/Kaggle.git
 ```
 2. **_Navigate to repository directory_**
 ```sh
-$ cd -Pandas.git
+$ cd -Kaggle.git
 ```
 ```
-#
+
 
 
 
