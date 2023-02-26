@@ -1,6 +1,10 @@
-# Pandas Course
+# Kaggle CourseS
 ## About
-Applying  pandas library  in data Science
+1. **_pandas library  in data Science_**
+2.**_Data cleaning_**
+3.**_Data visualization_**
+4.**_Machine learining_**
+5.**_Feature Engineering_**
 
 ## How to run
 1. **_Clone the repository_**
@@ -13,9 +17,7 @@ $ git clone https://github.com/SamaMostafa1/Pandas.git
 $ cd -Pandas.git
 ```
 ```
-## libraries
-
-- Pandas
+#
 
 
 
